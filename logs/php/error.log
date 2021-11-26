@@ -1,0 +1,162 @@
+[26-Nov-2021 13:14:51 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/event-settings.php): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:14:51 UTC] PHP Stack trace:
+[26-Nov-2021 13:14:51 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:14:51 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:14:51 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:14:51 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:14:51 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:14:51 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:14:51 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/event-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:14:51 UTC] PHP Stack trace:
+[26-Nov-2021 13:14:51 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:14:51 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:14:51 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:14:51 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:14:51 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:14:51 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:15:06 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:15:06 UTC] PHP Stack trace:
+[26-Nov-2021 13:15:06 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:15:06 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:15:06 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:15:06 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:15:06 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:15:06 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:15:06 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:15:06 UTC] PHP Stack trace:
+[26-Nov-2021 13:15:06 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:15:06 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:15:06 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:15:06 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:15:06 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:15:06 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:15:21 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:15:21 UTC] PHP Stack trace:
+[26-Nov-2021 13:15:21 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:15:21 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:15:21 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:15:21 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:15:21 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:15:21 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:15:21 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:15:21 UTC] PHP Stack trace:
+[26-Nov-2021 13:15:21 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:15:21 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:15:21 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:15:21 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:15:21 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:15:21 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:14
+[26-Nov-2021 13:17:27 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:17:27 UTC] PHP Stack trace:
+[26-Nov-2021 13:17:27 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:17:27 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:17:27 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:17:27 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:17:27 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:17:27 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:17:27 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:17:27 UTC] PHP Stack trace:
+[26-Nov-2021 13:17:27 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:17:27 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:17:27 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:17:27 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:17:27 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:17:27 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:19:30 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:19:30 UTC] PHP Stack trace:
+[26-Nov-2021 13:19:30 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:19:30 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:19:30 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:19:30 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:19:30 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:19:30 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:19:30 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:19:30 UTC] PHP Stack trace:
+[26-Nov-2021 13:19:30 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:19:30 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:19:30 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:19:30 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:19:30 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:19:30 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:21:32 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 13:21:32 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:21:32 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:21:32 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:21:32 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:21:32 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:21:32 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:21:32 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:21:32 UTC] PHP Stack trace:
+[26-Nov-2021 13:21:32 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:21:32 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:21:32 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:21:32 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:21:32 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:21:32 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:21:54 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:21:54 UTC] PHP Stack trace:
+[26-Nov-2021 13:21:54 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:21:54 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:21:54 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:21:54 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:21:54 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:21:54 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:21:54 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:21:54 UTC] PHP Stack trace:
+[26-Nov-2021 13:21:54 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:21:54 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:21:54 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:21:54 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:21:54 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:21:54 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:09 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:09 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:09 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:22:09 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:22:09 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:09 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:09 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:09 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:09 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:09 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:09 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:22:09 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:22:09 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:09 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:09 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:09 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:10 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:10 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:10 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/post-new.php:0
+[26-Nov-2021 13:22:10 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/post-new.php:10
+[26-Nov-2021 13:22:10 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin.php:34
+[26-Nov-2021 13:22:10 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:10 UTC] PHP   5. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:10 UTC] PHP   6. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:10 UTC] PHP   7. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:10 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:10 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:10 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/post-new.php:0
+[26-Nov-2021 13:22:10 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/post-new.php:10
+[26-Nov-2021 13:22:10 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin.php:34
+[26-Nov-2021 13:22:10 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:10 UTC] PHP   5. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:10 UTC] PHP   6. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:10 UTC] PHP   7. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:27 UTC] PHP Warning:  require(/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields): failed to open stream: No such file or directory in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:27 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:27 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:22:27 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:22:27 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:27 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:27 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:27 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[26-Nov-2021 13:22:27 UTC] PHP Fatal error:  require(): Failed opening required '/Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/lib/fields/loader.php on line 2
+[26-Nov-2021 13:22:27 UTC] PHP Stack trace:
+[26-Nov-2021 13:22:27 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:0
+[26-Nov-2021 13:22:27 UTC] PHP   2. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-admin/admin-ajax.php:22
+[26-Nov-2021 13:22:27 UTC] PHP   3. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-load.php:50
+[26-Nov-2021 13:22:27 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
+[26-Nov-2021 13:22:27 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
+[26-Nov-2021 13:22:27 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
