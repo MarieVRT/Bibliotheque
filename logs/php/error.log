@@ -160,3 +160,19 @@
 [26-Nov-2021 13:22:27 UTC] PHP   4. require_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-config.php:77
 [26-Nov-2021 13:22:27 UTC] PHP   5. include_once() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-settings.php:409
 [26-Nov-2021 13:22:27 UTC] PHP   6. require() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-content/plugins/books/books.php:15
+[09-Dec-2021 12:06:23 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/update.php on line 175
+[09-Dec-2021 12:06:23 UTC] PHP Stack trace:
+[09-Dec-2021 12:06:23 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-cron.php:0
+[09-Dec-2021 12:06:23 UTC] PHP   2. do_action_ref_array() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-cron.php:138
+[09-Dec-2021 12:06:23 UTC] PHP   3. WP_Hook->do_action() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/plugin.php:518
+[09-Dec-2021 12:06:23 UTC] PHP   4. WP_Hook->apply_filters() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/class-wp-hook.php:327
+[09-Dec-2021 12:06:23 UTC] PHP   5. wp_version_check() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/class-wp-hook.php:303
+[09-Dec-2021 12:06:23 UTC] PHP   6. trigger_error() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/update.php:175
+[09-Dec-2021 12:06:23 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/update.php on line 693
+[09-Dec-2021 12:06:23 UTC] PHP Stack trace:
+[09-Dec-2021 12:06:23 UTC] PHP   1. {main}() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-cron.php:0
+[09-Dec-2021 12:06:23 UTC] PHP   2. do_action_ref_array() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-cron.php:138
+[09-Dec-2021 12:06:23 UTC] PHP   3. WP_Hook->do_action() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/plugin.php:518
+[09-Dec-2021 12:06:23 UTC] PHP   4. WP_Hook->apply_filters() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/class-wp-hook.php:327
+[09-Dec-2021 12:06:23 UTC] PHP   5. wp_update_themes() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/class-wp-hook.php:303
+[09-Dec-2021 12:06:23 UTC] PHP   6. trigger_error() /Users/marieverraest/Local Sites/bibliothequeproject/app/public/wp-includes/update.php:693

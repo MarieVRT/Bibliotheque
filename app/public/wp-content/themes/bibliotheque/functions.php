@@ -6,6 +6,12 @@ function bibliotheque_assets() {
 }
 add_action( 'wp_enqueue_scripts', 'bibliotheque_assets' );
 
+
+add_action('init', function(){
+    register_nav_menu('book-menu', 'Menu livre');
+});
+
+
 add_action('after_setup_theme', function(){
     add_theme_support('post-thumbnails');
 });
